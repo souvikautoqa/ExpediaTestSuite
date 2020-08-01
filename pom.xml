@@ -36,7 +36,7 @@
                 <configuration>
                     <!-- Suite testng xml file to consider for test execution -->
                     <suiteXmlFiles>
-                        <suiteXmlFile>TestRunner.xml</suiteXmlFile>
+                        <suiteXmlFile>TestRunner12.xml</suiteXmlFile>
                     </suiteXmlFiles>
                     <systemPropertyVariables>
                         <!--suppress UnresolvedMavenProperty -->
