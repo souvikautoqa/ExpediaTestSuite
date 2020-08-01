@@ -6,7 +6,7 @@
 <suite name="tests.ExpediaTestSuite">
     <test name="ExpediaTests">
         <classes>
-            <class name="tests.ExpediaTestSuite-dan"/>
+            <class name="tests.ExpediaTestSuite" />
         </classes>
     </test>
 </suite>
